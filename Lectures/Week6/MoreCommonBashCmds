@@ -1,0 +1,19 @@
+clear
+echo
+chmod
+cp
+mv 
+rm 
+more 
+tail 
+head
+man
+ps
+date
+whoami
+kill
+uptime
+df
+whereis  #Search for binaries
+find /home/*.ps1
+read
