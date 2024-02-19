@@ -1,0 +1,1 @@
+google.com mail is handled by 10 smtp.google.com.
