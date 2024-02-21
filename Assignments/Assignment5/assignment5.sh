@@ -19,7 +19,7 @@ echo "#1 Setting Constants"
 # Create Varaiable HERE
 
 
-TITLE="Security Report prepared for CSCI 1411 - Fall 2023"
+TITLE="Security Report prepared for CSCI 1411 - Spring 2024"
 RIGHT_NOW=$(date +"%x %r %Z")
 TIME_STAMP="Updated on $RIGHT_NOW by $STUDENT_NAME"
 # Assign a value to TARGET_IP
