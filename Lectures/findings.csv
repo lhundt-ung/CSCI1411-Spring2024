@@ -1,0 +1,30 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Windows\System32\driverStore\FileRepository\mdmmot64.inf_amd64_2afbe7d3ad20f42a\SmSerl64.sys","Microsoft.PowerShell.Core\FileSystem::C:\Windows\System32\driverStore\FileRepository\mdmmot64.inf_amd64_2afbe7d3ad20f42a","SmSerl64.sys","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Windows\System32\driverStore\FileRepository\mdmmot64.inf_amd64_2afbe7d3ad20f42a\SmSerl64.sys
+InternalName:     SmSerl64.sys
+OriginalFilename: SmSerl64.sys
+FileVersion:      SM56 Rel. 6.12.23 built by: WinDDK
+FileDescription:  Motorola SM56 Modem WDM Driver
+Product:          Motorola SM56 Modem
+ProductVersion:   SM56 Rel. 6.12.23
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         English (United States)
+","SmSerl64","System.Collections.Generic.List`1[System.String]","HardLink","SmSerl64.sys","1227776","C:\Windows\System32\driverStore\FileRepository\mdmmot64.inf_amd64_2afbe7d3ad20f42a","C:\Windows\System32\driverStore\FileRepository\mdmmot64.inf_amd64_2afbe7d3ad20f42a","False","True","C:\Windows\System32\driverStore\FileRepository\mdmmot64.inf_amd64_2afbe7d3ad20f42a\SmSerl64.sys",".sys","5/8/2021 4:13:54 AM","5/8/2021 8:13:54 AM","5/8/2021 4:13:54 AM","5/8/2021 8:13:54 AM","5/8/2021 4:13:54 AM","5/8/2021 8:13:54 AM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Windows\System32\driverStore\FileRepository\spaceport.inf_amd64_0dd12fe88eb98777\spaceport.sys","Microsoft.PowerShell.Core\FileSystem::C:\Windows\System32\driverStore\FileRepository\spaceport.inf_amd64_0dd12fe88eb98777","spaceport.sys","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Windows\System32\driverStore\FileRepository\spaceport.inf_amd64_0dd12fe88eb98777\spaceport.sys
+InternalName:     spaceport.sys
+OriginalFilename: spaceport.sys
+FileVersion:      10.0.20348.502 (WinBuild.160101.0800)
+FileDescription:  Storage Spaces Driver
+Product:          Microsoft? Windows? Operating System
+ProductVersion:   10.0.20348.502
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         Language Neutral
+","spaceport","System.Collections.Generic.List`1[System.String]","HardLink","spaceport.sys","836968","C:\Windows\System32\driverStore\FileRepository\spaceport.inf_amd64_0dd12fe88eb98777","C:\Windows\System32\driverStore\FileRepository\spaceport.inf_amd64_0dd12fe88eb98777","False","True","C:\Windows\System32\driverStore\FileRepository\spaceport.inf_amd64_0dd12fe88eb98777\spaceport.sys",".sys","3/2/2022 10:53:27 PM","3/3/2022 3:53:27 AM","3/2/2022 10:53:27 PM","3/3/2022 3:53:27 AM","3/2/2022 10:53:27 PM","3/3/2022 3:53:27 AM","Archive"
